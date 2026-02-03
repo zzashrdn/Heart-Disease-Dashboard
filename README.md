@@ -37,6 +37,3 @@ The dashboard highlights key risk factors such as cholesterol level, chest pain 
 - Interactive filters for exploratory analysis
 
 ---
-
-## 📷 Dashboard Preview
-![Dashboard Screenshot](dashboard_overview_hd.png)
